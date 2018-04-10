@@ -23,9 +23,9 @@ We proposed the major visualization using Python and Microsoft Excel, and we wou
 
 ## References
 Special thanks to William A. Reiners et al. for building ecological concept toolbox, which is greatly instructive in our project. For more information, please reference : 
-Conceptual toolboxes for twenty‐first‐century ecologists, WA Reiners, GS Pappas, JA Lockwood, DS Reiners, SD Prager, Ecosphere 9 (2) at https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.2104
+* **Conceptual toolboxes for twenty‐first‐century ecologists, WA Reiners, GS Pappas, JA Lockwood, DS Reiners, SD Prager, Ecosphere 9 (2)** at https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.2104
 and
-100 years of ecology: what are our concepts and are they useful?, WA Reiners, JA Lockwood, DS Reiners, SD Prager, Ecological Monographs 87 (2), 260-277 at https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecm.1243
+* **100 years of ecology: what are our concepts and are they useful?, WA Reiners, JA Lockwood, DS Reiners, SD Prager, Ecological Monographs 87 (2), 260-277** at https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecm.1243
 
 ## Contact
 I'm still working on this project, if you've discovered a bug or something else you want to change, feel free to contact me at: daishengqi@hotmail.com or 13110700026@fudan.edu.cn
