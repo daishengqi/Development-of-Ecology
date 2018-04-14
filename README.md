@@ -10,7 +10,7 @@ In this project, we proposed a new view on the development of Ecology using Naut
 
 * **NLTK Package**: In this research, functions in NLTK package were frequently used, including tokenization, stemming, stopwords deletion, lemmitazation and POS tagging etc. For detailed information on NLTK package, please visit: https://github.com/nltk/nltk.
 
-* **Word2Vec Algorithm**: Efficient multicore implementations of popular algorithms, such as online Latent Semantic Analysis (LSA/LSI/SVD), Latent Dirichlet Allocation (LDA), Random Projections (RP), Hierarchical Dirichlet Process (HDP) or word2vec deep learning were supported by Gensim, whichi is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community. For more information, please visit: https://radimrehurek.com/gensim/index.html
+* **Word2Vec Algorithm**: In this research, efficient multicore implementations of popular algorithms, such as online Latent Semantic Analysis (LSA/LSI/SVD), Latent Dirichlet Allocation (LDA), Random Projections (RP), Hierarchical Dirichlet Process (HDP) or Word2Vec deep learning were supported by Gensim, which is a Python library for topic modelling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing (NLP) and information retrieval (IR) community. For more information, please visit: https://radimrehurek.com/gensim/index.html
 
 ## Data Visualization
 In the paper, we managed to build 4 visualizations to characterize the development of ecological concepts during the last century, which involved:
