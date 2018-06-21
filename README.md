@@ -1,5 +1,5 @@
 # The Development of Ecology based on Massive Datasets 
-This is the Git for paper "Trends and biases in ecological concepts during the last century"， which is under the project of a bibliometric exploration of more than 420,000 articles from 1915-2015. 
+This is the Git for paper "Ecological 'bandwagon' ideas during the last century: perception and publications"， which is under the project of a bibliometric exploration of more than 420,000 articles from 1915-2015. 
 In this project, we proposed a new view on the development of Ecology using Nautral Language Processing (NLP) based bibliometric methods based on a total of 423,585 research papers. Further in this repository you will find: 1) the jupyter notebook (resource codes with annotation) for data preprocessing, analysis and visualziation, 2) Detailed information on methods and references and 3) Download links for the raw data, processed data and visualizations.
 
 ## Bibliometric Datasets
